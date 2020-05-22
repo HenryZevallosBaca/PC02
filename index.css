@@ -1,0 +1,36 @@
+#header img{
+    width:80px;
+}
+.text-platzi{
+    color: #1e5372 !important;
+}
+#footer {
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+  }
+#footer a{
+    color:white;
+}  
+#foto{
+    width: 100%;
+    height: 30px;
+}
+#principal{
+    border: solid 1px;
+    padding: 10px;
+    width: 60%;
+    margin: 0 auto;
+    background: #f3fffe;
+    align:left;
+}
+legend{
+    border: solid 2px #4677db;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: #A0c0ff;
+}
+body{
+    background: url(fondo.jpg);
+    background-size: 30%;
+    background-attachment: fixed;
+}
